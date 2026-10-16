@@ -37,9 +37,8 @@ I'm a web developer from **Pakistan** who builds clean, responsive, and user-fri
 
 | Project | Description | Tech | Links |
 |---|---|---|---|
-| 🌐 **Project Name 1** | One-line description of what it does | HTML, CSS, JS | [Live Demo](#) · [Code](#) |
-| 🛒 **Project Name 2** | One-line description of what it does | HTML, CSS, JS | [Live Demo](#) · [Code](#) |
-| 📱 **Project Name 3** | One-line description of what it does | HTML, CSS, Bootstrap | [Live Demo](#) · [Code](#) |
+| 🌐 **Real-Estate** | A Perfect Real-Estate Website | HTML, CSS, JS | [Live Demo](https://sabih-web.github.io/Real-Estate/) |
+| 🛒 **Apple Store** | An online store for **Apple** Products| HTML, CSS, JS | [Live Demo](https://sabih-web.github.io/Apple-Site/) |
 
 ---
 

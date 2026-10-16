@@ -4,12 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+clean%2C+responsive+websites;Based+in+Pakistan+%F0%9F%87%B5%F0%9F%87%B0+%7C+Open+to+remote+work" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabih-web&label=Profile+views&color=2f81f7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance-brightgreen?style=flat" alt="status" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -76,7 +70,7 @@ I help individuals and small businesses get a clean, responsive website.
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/sabih-u><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/s4b17k._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:sabihextra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>

@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabih-web&label=Profile+views&color=2f81f7&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/sabih-web?label=Followers&style=for-the-badge&color=2f81f7&labelColor=0d1117" alt="followers" />
   <img src="https://img.shields.io/badge/Open%20to-Freelance-brightgreen?style=for-the-badge&labelColor=0d1117" alt="status" />
 </p>
 

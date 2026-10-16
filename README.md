@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabih</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabih-web" alt="sabih-web" /></a> </p>
-
 - 🔭 I’m currently working on **Front/Back-End Dev**
 
 - 🌱 I’m currently learning **JavaScript,Node.js,React.js**

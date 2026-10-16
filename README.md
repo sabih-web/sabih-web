@@ -69,7 +69,7 @@ I help individuals and small businesses get a clean, responsive website.
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/sabih-u><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<p align="left"> <a href=www.linkedin.com/in/sabih-u><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   <a href="https://instagram.com/s4b17k._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:sabihextra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>

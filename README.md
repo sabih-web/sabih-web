@@ -1,21 +1,86 @@
+<!-- HEADER BANNER -->
 <h1 align="center">Hi 👋, I'm Sabih</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Front/Back-End Dev**
-
-- 🌱 I’m currently learning **JavaScript,Node.js,React.js**
-
-- 💬 Ask me about **html,css,layout designs,colour schemes**
-
-- 📫 How to reach me **insta: s4b17k._**
-
-- ⚡ Fun fact **Exploring in Everything**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sabih u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabih u" height="30" width="40" /></a>
-<a href="https://instagram.com/s4b17k._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s4b17k._" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+clean%2C+responsive+websites;Based+in+Pakistan+%F0%9F%87%B5%F0%9F%87%B0+%7C+Open+to+remote+work" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabih-web&label=Profile+views&color=2f81f7&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance-brightgreen?style=flat" alt="status" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a web developer from **Pakistan** who builds clean, responsive, and user-friendly websites. I enjoy layout design and colour schemes, and I'm sharpening my JavaScript skills to build more interactive, real-world projects.
+
+- 🔭 Currently building: **responsive websites & front-end projects**
+- 🌱 Currently learning: **JavaScript, Node.js, React.js**
+- 🎨 Strong in: **HTML, CSS, layout design, colour schemes**
+- 🌍 Available for: **freelance / remote projects worldwide**
+- ⚡ Fun fact: **I love exploring everything about tech**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,figma&theme=dark" alt="skills" />
+</p>
+
+**Learning next:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind&theme=dark" alt="learning" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Replace these with your best REAL projects. Add a live demo link (GitHub Pages) for each. -->
+
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| 🌐 **Project Name 1** | One-line description of what it does | HTML, CSS, JS | [Live Demo](#) · [Code](#) |
+| 🛒 **Project Name 2** | One-line description of what it does | HTML, CSS, JS | [Live Demo](#) · [Code](#) |
+| 📱 **Project Name 3** | One-line description of what it does | HTML, CSS, Bootstrap | [Live Demo](#) · [Code](#) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sabih-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabih-web&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sabih-web&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 🤝 Let's Work Together
+
+I help individuals and small businesses get a clean, responsive website.
+
+- ✅ Responsive landing pages & portfolio websites
+- ✅ Pixel-perfect conversion of designs into code
+- ✅ Fast communication and on-time delivery
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/s4b17k._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:sabihextra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+<p align="center">⭐ Thanks for visiting my profile! ⭐</p>

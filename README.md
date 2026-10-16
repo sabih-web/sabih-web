@@ -80,14 +80,6 @@ I build clean, responsive, and user-friendly websites. I love layout design and 
   <img src="https://streak-stats.demolab.com?user=sabih-web&theme=tokyonight&hide_border=true&background=0d1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabih-web&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabih-web&theme=react-dark&hide_border=true&bg_color=0d1117&color=2F81F7&line=2F81F7&point=ffffff" alt="activity graph" width="95%" />
-</p>
-
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" /></p>
 
 ### 🐍 Contribution Snake
